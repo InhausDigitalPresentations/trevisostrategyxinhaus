@@ -4,7 +4,7 @@ Part two of the approved pitch (https://inhausdigitalpresentations.github.io/tre
 The pitch sold the idea; this deck shows how it works: the mechanics, the platforms,
 the gifts, the calendar.
 
-**28 scenes + 5 chapter dividers · 6 chapters** (v3) — same design system, same horizontal
+**28 scenes + 5 chapter dividers · 6 chapters** (v3.1 — editorial type pass: height-aware type scale, headline size for long headlines, safe margins around the fixed navigation) — same design system, same horizontal
 scroll engine, same fonts and tokens as the pitch.
 
 ## Structure
